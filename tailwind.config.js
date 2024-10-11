@@ -14,6 +14,16 @@ module.exports = {
         mono: ["var(--font-mono)"],
       },
     },
+    colors: {
+      transparent: 'transparent',
+      current: 'currentColor',
+      'white': '#ffffff',
+      'customColor': {
+        100: '#274358',
+        200: '#92E4EB',
+        300: '#F1C363'
+      }
+    }
   },
   darkMode: "class",
   plugins: [nextui()],
