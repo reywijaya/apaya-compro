@@ -1,8 +1,6 @@
-# Next.js & NextUI Template
+# Apaya Company Profile
 
-This is a template for creating applications using Next.js 14 (app directory) and NextUI (v2).
-
-[Try it on CodeSandbox](https://githubbox.com/nextui-org/next-app-template)
+This is super secret project :D
 
 ## Technologies Used
 
