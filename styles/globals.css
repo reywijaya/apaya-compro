@@ -7,4 +7,7 @@ body {
     padding: 0;
     background-image: url("@/public/backdrop-flipped.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
 }
