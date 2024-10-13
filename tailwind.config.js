@@ -18,6 +18,7 @@ module.exports = {
       transparent: 'transparent',
       current: 'currentColor',
       'white': '#ffffff',
+      'black': '#000000',
       'customColor': {
         100: '#274358',
         200: '#92E4EB',
